@@ -4,7 +4,7 @@
 
 <p>
   🧔 My name is <b>Alejandra Abrego</b>. A self-taught programmer😜.<br/>
-  📚 I’m currently learning ** Java, Spring Boot, Firebase **
+  📚 I’m currently learning ** Java, Spring Boot, Firebase ** <br/>
   💻 I am a <b>Java Developer</b>, Proficient in <b>SpringBoot</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
 </p>
 <p>
@@ -44,8 +44,8 @@
 
 <p align="center">
 <a href="https://github.com/Abregoo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abregoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abregoo&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abregoo&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manuelduarte077&layout=compact&langs_count=8&theme=darcula"/>
 </a>
 </p>
 
