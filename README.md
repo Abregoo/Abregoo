@@ -5,14 +5,12 @@
 <p>
   🧔 My name is <b>Alejandra Abrego</b>. A self-taught programmer😜.<br/>
   📚 I’m currently learning ** Java, Spring Boot, Firebase **
-
   💻 I am a <b>Java Developer</b>, Proficient in <b>SpringBoot</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
 </p>
 <p>
   🔗 <b>Contact Me At</b>: <br/>
   <b><a href="mailto:ale.abrego1214@gmail.com">Email: </>ale.abrego1214@gmail.com .</a></p><br/> 
- <br>
-
+ 
 <p>
   📣 Connect With Me :<br/>
    <br>
@@ -20,7 +18,7 @@
   <a href="mailto:ale.abrego1214@gmail.com?subject=[GitHub]%20🔥%20Want%20To%20contact&body=Good%20Morning%20Shabinder%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/aleabrego1"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/alejandra-abrego"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/in/aleaabrego1"><img src="https://img.shields.io/badge/twitter-0077B5.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://twitter.com/aleaabrego1"><img src="https://img.shields.io/badge/twitter-0077B5.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 **Languages and Tools:**
@@ -57,11 +55,15 @@
 <code><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/></code>
 -->
+
+
+
 <h3 align="center">GITHUB STATS<hr/></h3>
 
 <p align="center">
 <a href="https://github.com/Abregoo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abregoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abregoo&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abregoo&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abregoo&layout=compact&langs_count=8&theme=vue"/>
 </a>
 </p>
+
