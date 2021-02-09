@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alejandra Abregoo</h1>
+<h1 align="center">Hi 👋, I'm Alejandra Abrego</h1>
 
 <h3>⚡️ About ME ⚡️</h3>
 
