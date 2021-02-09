@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/-Spring-5e8d5a?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/-PHP-336791?style=flat-square&logo=PHP&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Laravel-cc0000?style=flat-square&logo=Laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-WordPress-336791?style=flat-square&logo=WordPress&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-WordPress-336791?style=flat-square&logo=WordPress&logoColor=white"/> </br>
     <img src="https://img.shields.io/badge/-JavaScript-ffa500?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Angular-ff0000?style=flat-square&logo=Angular&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Kotlin-FA6400?style=flat-square&logo=kotlin&logoColor=white"/>
