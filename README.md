@@ -3,8 +3,8 @@
 <h3>⚡️ About ME ⚡️</h3><br/>
 
 <p>
-  🧔 My name is <b>Shabinder</b>. A self-taught programmer😜.<br/>
-  📚 I’m currently learning **Kotlin, Flutter, React Native, Node JS**
+  🧔 My name is <b>Alejandra Abregoo</b>. A self-taught programmer😜.<br/>
+  📚 I’m currently learning **Java, Spring Boot, Firebase, **
 
   💻 I am a <b>Java Developer</b>, Proficient in <b>SpringBoot</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
 </p>
@@ -23,9 +23,7 @@
     <a href="https://twitter.com/in/aleaabrego1"><img src="https://img.shields.io/badge/twitter-0077B5.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-
 **Languages and Tools:**
-
 
   <p >  
     <img src="https://img.shields.io/badge/-Kotlin-FA6400?style=flat-square&logo=kotlin&logoColor=white"/>
@@ -38,7 +36,7 @@
     <img src="https://img.shields.io/badge/-Spring-5e8d5a?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><br/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Manjaro-34BE5B?style=flat-square&logo=Manjaro&logoColor=white"/>
+    <!-- <img src="https://img.shields.io/badge/-Manjaro-34BE5B?style=flat-square&logo=Manjaro&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Postgresql-336791?style=flat-square&logo=Postgresql&logoColor=white"/>
     <!--  <img src="https://img.shields.io/badge/-Heroku-6762a6?style=flat-square&logo=heroku&logoColor=white"/> -->
