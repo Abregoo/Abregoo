@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alejandra Abrego</h1>
 
-<h3>⚡️ About ME ⚡️</h3>
+<h3>⚡️ About Me⚡️</h3>
 
 <p>
   🙋 My name is <b>Alejandra Abrego</b>. A self-taught programmer 👀.<br/>
