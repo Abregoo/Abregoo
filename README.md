@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alejandra Abregoo</h1>
 
-<h3>⚡️ About ME ⚡️</h3><br/>
+<h3>⚡️ About ME ⚡️</h3>
 
 <p>
-  🧔 My name is <b>Alejandra Abregoo</b>. A self-taught programmer😜.<br/>
-  📚 I’m currently learning **Java, Spring Boot, Firebase, **
+  🧔 My name is <b>Alejandra Abrego</b>. A self-taught programmer😜.<br/>
+  📚 I’m currently learning ** Java, Spring Boot, Firebase **
 
   💻 I am a <b>Java Developer</b>, Proficient in <b>SpringBoot</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
 </p>
 <p>
   🔗 <b>Contact Me At</b>: <br/>
-  <b><a href="mailto:ale.abrego1214@gmail.com">Email: </>dev.shabinder@gmail.com .</a></p><br/> 
+  <b><a href="mailto:ale.abrego1214@gmail.com">Email: </>ale.abrego1214@gmail.com .</a></p><br/> 
  <br>
 
 <p>
