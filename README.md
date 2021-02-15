@@ -4,7 +4,7 @@
 
 <p>
   🙋 My name is <b>Alejandra Abrego</b>. A self-taught programmer 👀.<br/>
-  📚 I’m currently learning ** Java, Spring Boot, Angular, Firebase ** <br/>
+  📚 I’m currently learning **Java, Spring Boot, Angular, Firebase** <br/>
   💻 I am a <b>Java Developer</b>, Proficient in <b>SpringBoot</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
 </p>
 <p>
