@@ -2,11 +2,11 @@
 
 <h3>⚡️ About Me⚡️</h3>
 
-<p>
-  🙋 My name is <b>Alejandra Abrego</b>. A self-taught programmer 👀.<br/>
-  📚 I’m currently learning **Java, Spring Boot, Angular, Firebase** <br/>
-  💻 I am a <b>Java Developer</b>, Proficient in <b>SpringBoot</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
-</p>
+
+  - 🙋 My name is <b>Alejandra Abrego</b>. A self-taught programmer 👀
+  - 📚 I’m currently learning **Java, Spring Boot, Angular, Firebase**
+  - 💻 I am a <b>Java Developer</b>, Proficient in <b>SpringBoot</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
+
 <p>
   🔗 <b>Contact Me At</b>: <br/>
   <b><a href="mailto:ale.abrego1214@gmail.com">Email: </>ale.abrego1214@gmail.com .</a></p><br/> 
