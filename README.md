@@ -9,7 +9,7 @@
 
 <p>
   🔗 <b>Contact Me At</b>: <br/>
-  <b><a href="mailto:ale.abrego1214@gmail.com">Email: </>ale.abrego1214@gmail.com .</a></p><br/> 
+  <b><a href="mailto:ale.abrego1214@gmail.com">Email: </>ale.abrego1214@gmail.com</a></p><br/> 
  
 <p>
   📣 Connect With Me :<br/>
