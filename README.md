@@ -14,13 +14,14 @@
 * 💻 I am a <b>Java Developer</b>, Proficient in <b>SpringBoot</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
 
 <p>
-  🔗 <b>Contact Me At</b>: <br/>
-  <b><a href="mailto:ale.abrego1214@gmail.com">Email: </>ale.abrego1214@gmail.com</a></p><br/> 
+  🔗 <b>Contact Me At</b>:
+[![Email](https://img.shields.io/badge/abrego1214@gmail.co-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:abrego1214@gmail.co)
+  ## Contact me:
+[![Email](https://img.shields.io/badge/carlosd99m@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:carlosd99m@gmail.com)
  
 <p>
   📣 Connect With Me :<br/>
-   
-  <a href="mailto:ale.abrego1214@gmail.com?subject=[GitHub]%20🔥%20Want%20To%20contact&body=Hello Alejandra%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+
   <a href="https://instagram.com/ale.abrego14"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/alejandra-abrego"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/aleaabrego1"><img src="https://img.shields.io/badge/twitter-0077B5.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
