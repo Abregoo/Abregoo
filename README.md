@@ -5,7 +5,8 @@
 <img src="https://raw.githubusercontent.com/Abregoo/Abregoo/main/java-banner.jpg" alt="Hello world">
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dKc2fBq97S9gIzLX2j/giphy.gif" width="300px" />
-⚡️ About Me⚡️
+⚡️ About Me⚡️ <br/>
+
 * 🙋 My name is <b>Alejandra Abrego</b>. A self-taught programmer 👀
 * 👨‍💻 #SelfTaught Developer
 * 📚 I’m currently learning **Java, Spring Boot, Angular, Firebase**
