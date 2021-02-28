@@ -13,9 +13,9 @@
 * 🚀 Co-Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) open source organization
 * 💻 I am a <b>Java Developer</b>, Proficient in <b>SpringBoot</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
 
-<p>
-🔗 <b>Contact Me At</b>:
+## Contact me:
 [![Email](https://img.shields.io/badge/carlosd99m@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:carlosd99m@gmail.com)
+
  
 <p>
   📣 Connect With Me :<br/>
