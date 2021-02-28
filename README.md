@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alejandra Abrego</h1>
 
-<h3>⚡️ About Me⚡️</h3>
+
 
 <img src="https://raw.githubusercontent.com/Abregoo/Abregoo/main/java-banner.jpg" alt="Hello world">
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dKc2fBq97S9gIzLX2j/giphy.gif" width="300px" />
-
+<h3>⚡️ About Me⚡️</h3>
   - 🙋 My name is <b>Alejandra Abrego</b>. A self-taught programmer 👀
   - 📚 I’m currently learning **Java, Spring Boot, Angular, Firebase**
   - 💻 I am a <b>Java Developer</b>, Proficient in <b>SpringBoot</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
