@@ -2,7 +2,7 @@
 
 <h3>⚡️ About Me⚡️</h3>
 
-<img src="https://raw.githubusercontent.com/manuelduarte077/manuelduarte077/main/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/Abregoo/Abregoo/main/banner.png" alt="Hello world">
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dKc2fBq97S9gIzLX2j/giphy.gif" width="300px" />
 
