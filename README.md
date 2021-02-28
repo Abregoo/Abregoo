@@ -6,10 +6,10 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dKc2fBq97S9gIzLX2j/giphy.gif" width="300px" />
 <h3>⚡️ About Me⚡️</h3>
-  * 🙋 My name is <b>Alejandra Abrego</b>. A self-taught programmer 👀
-  * 👨‍💻 #SelfTaught Developer
-  * 📚 I’m currently learning **Java, Spring Boot, Angular, Firebase**
-  * 💻 I am a <b>Java Developer</b>, Proficient in <b>SpringBoot</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
+* 🙋 My name is <b>Alejandra Abrego</b>. A self-taught programmer 👀
+* 👨‍💻 #SelfTaught Developer
+* 📚 I’m currently learning **Java, Spring Boot, Angular, Firebase**
+* 💻 I am a <b>Java Developer</b>, Proficient in <b>SpringBoot</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
 
 <p>
   🔗 <b>Contact Me At</b>: <br/>
