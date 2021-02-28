@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/Abregoo/Abregoo/main/java-banner.jpg" alt="Hello world">
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/dKc2fBq97S9gIzLX2j/giphy.gif" width="300px" />
-<h1>⚡️ About Me⚡️ <br/></h1>
+<h2>⚡️ About Me⚡️ <br/></h2>
 
 
 * 🙋 My name is <b>Alejandra Abrego</b>. A self-taught programmer 👀
