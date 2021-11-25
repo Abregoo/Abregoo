@@ -26,9 +26,11 @@
 
   <p > 
     <img src="https://img.shields.io/badge/-Java-EC4D37?style=flat-square&logo=java&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/-Spring-5e8d5a?style=flat-square&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-JavaScript-ffa500?style=flat-square&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Angular-ff0000?style=flat-square&logo=Angular&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-SpringBoot-5e8d5a?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Quarkus-blue?style=flat-square&logo=quarkus&logoColor=black"/> <br>
+    <img src="https://img.shields.io/badge/-JavaScript-ffa500?style=flat-square&logo=JavaScript&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=Typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Angular-ff0000?style=flat-square&logo=Angular&logoColor=white"/> <br>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
