@@ -27,20 +27,13 @@
   <p > 
     <img src="https://img.shields.io/badge/-Java-EC4D37?style=flat-square&logo=java&logoColor=white"/> 
     <img src="https://img.shields.io/badge/-Spring-5e8d5a?style=flat-square&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Eclipse-572364?style=flat-square&logo=Eclipse&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-PHP-336791?style=flat-square&logo=PHP&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Laravel-cc0000?style=flat-square&logo=Laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-WordPress-336791?style=flat-square&logo=WordPress&logoColor=white"/> </br>
     <img src="https://img.shields.io/badge/-JavaScript-ffa500?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Angular-ff0000?style=flat-square&logo=Angular&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Android%20Studio-42B883?style=flat-square&logo=Android&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Kotlin-FA6400?style=flat-square&logo=kotlin&logoColor=white"/> </br>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-4ca3dd?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Postgresql-336791?style=flat-square&logo=Postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Firebase-F6820D?style=flat-square&logo=FireBase&logoColor=white"/>
   </p>
 
 <h3 align="center">GITHUB STATS<hr/></h3>
