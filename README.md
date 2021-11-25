@@ -10,7 +10,7 @@
 
 * 🙋 My name is <b>Alejandra Abrego</b>. A self-taught programmer 👀
 * 👨‍💻 #SelfTaught Developer
-* 📚 I’m currently learning **Java, Spring Boot, Angular, Firebase**
+* 📚 I’m currently learning **Java, Spring Boot, Angular**
 * 🚀 Co-Founder of [@TheCodeMonsters](https://github.com/TheCodeMonsters) open source organization
 * 💻 I am a <b>Java Developer</b>, Proficient in <b>SpringBoot</b> and a <b>GNU/Linux Enthusiast!</b>. <br/>
  
